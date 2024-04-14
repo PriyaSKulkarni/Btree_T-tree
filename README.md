@@ -18,7 +18,5 @@ The experimental results provide insights into the performance comparison betwee
 ## Conclusion
 The comparative analysis aims to assist developers and researchers in understanding the trade-offs between T*-Trees and B+-Trees and selecting the most suitable data structure for their specific use cases.
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
-
 ---
 Feel free to customize the content and structure of the README file according to your specific needs and preferences.
