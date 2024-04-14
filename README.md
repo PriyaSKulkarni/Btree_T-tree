@@ -13,7 +13,7 @@ This repository contains code and experimental results for a comparative analysi
 3. Experimental results, including graphs and data tables, are stored in the `results/` directory for analysis.
 
 ## Results
-The experimental results provide insights into the performance comparison between T*-Trees and B+-Trees across various operations. The results include comparisons of insertion time, deletion time, search time, range query performance, and space complexity.
+The experimental results provide insights into the performance comparison between T*-Trees and B+-Trees across various operations. The results include comparisons of insertion time, deletion time, search time, and space complexity.
 
 ## Conclusion
 The comparative analysis aims to assist developers and researchers in understanding the trade-offs between T*-Trees and B+-Trees and selecting the most suitable data structure for their specific use cases.
